@@ -5,4 +5,5 @@
 * BRANCH es la generación de una rama distina para generar una versión alternativa del proceso de edición.
 * MERGE sirve para combinar las ramas con la finalidad de reubicar los cambios en una versión (rama-rama; rama-master).
 * PUSH cuando necesito mandar mis cambios desde mi cuenta de GITHUB.
+* FETCH identificar los nombres de los COMMIT de diferencia de la línea master con relación a los cambios de un colaborador.
 
